@@ -1,7 +1,5 @@
 # React-UI-Components
 
-- This repository is designed to be your first exposure into the world of ReactJS. There are 2 projects to complete in this repository. Project 1 is all about implementing a Social Card in ReactJS. On Project 2 you'll be implementing a Calculator. We've given you the file structure and have gone ahead and added all the files you'll need to be set up for success for each project.
-
 ## Initializing the application.
 
 - This project was put together using `create-react-app` (CRA). **You will not need to install CRA in order to make this project work**
@@ -87,7 +85,7 @@
   - On your state object be sure to include a property for the `total` that can be passed down to your `<CalculatorDisplay />` component.
 - Create some `handler functions` that can take in some information from an, `onClick` and use that information to update the `total` on the App state.
 
-  - `this.setState` will be your best friend here :) Initial repo
+  - `this.setState` will be your best friend here :) 
 
   **GOOD LUCK!!**
   
