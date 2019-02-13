@@ -32,7 +32,7 @@ const NumberButton = props => {
              <div className="row">
                 <NumberButton className="zero">0</NumberButton>
                 <NumberButton className="equals">=</NumberButton>
-             </div>
+             </div> 
         </div>
     );
 };
